@@ -1,5 +1,5 @@
- <h1 align="right">Hi 👋, I'm Jiban Ahammed</h1> <br> <br>
-<h3 align="right">A passionate front-end developer from Bangladesh.CSE A passionate frontend developer from Bangladesh.CSE undergraduate. I love coding. In my free time, I like to travel and gaming.</h3>
+ <h1 align="left">Hi 👋, I'm Jiban Ahammed</h1> <br> <br>
+<h3 align="left">A passionate front-end developer from Bangladesh.CSE A passionate frontend developer from Bangladesh.CSE undergraduate. I love coding. In my free time, I like to travel and gaming.</h3>
 
 - 🌱 I’m currently learning **Full Stack development(MERN).**
 
